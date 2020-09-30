@@ -6,6 +6,7 @@ html {
 @font-face {
   font-family: "Circular Std Book";
   src: url("../assets/fonts/circularstd-book.otf");
+
 }
 
 body {
@@ -422,7 +423,7 @@ footer {
 }
 
 .gif {
-  width: 400px;
+  width: 320px;
 }
 
 .header-try-one-btn {
